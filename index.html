@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Performance Feedback</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <header class="header">
+        <div class="overlay"></div>
+        <div class="header-container">
+            <h1>AI Performance Feedback</h1>
+            <p>Instant, personalized feedback to help you improve!</p>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <!-- Feedback Section -->
+            <section class="feedback">
+                <h2>AI Feedback Summary</h2>
+                <div class="feedback-box">
+                    <p><strong>Feedback:</strong> {{ feedback }}</p>
+                    <p><strong>Error:</strong> {{ error_message }}</p>
+                </div>
+            </section>
+
+            <!-- Form Section -->
+            <section class="input-form">
+                <h2>Submit Your Data</h2>
+                <form action="/" method="POST">
+                    <label for="grade">Grade:</label>
+                    <input type="number" name="grade" id="grade" required>
+
+                    <label for="attendance">Attendance:</label>
+                    <input type="number" name="attendance" id="attendance" required>
+
+                    <label for="assignment_rate">Assignment Completion Rate:</label>
+                    <input type="number" name="assignment_rate" id="assignment_rate" required>
+
+                    <button type="submit" class="submit-btn">Submit</button>
+                </form>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="footer-container">
+            <p>&copy; 2025 AI Performance Feedback. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
