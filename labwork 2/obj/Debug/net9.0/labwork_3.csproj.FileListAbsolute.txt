@@ -1,0 +1,14 @@
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\bin\Debug\net9.0\labwork_3.exe
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\bin\Debug\net9.0\labwork_3.deps.json
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\bin\Debug\net9.0\labwork_3.runtimeconfig.json
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\bin\Debug\net9.0\labwork_3.dll
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\bin\Debug\net9.0\labwork_3.pdb
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\obj\Debug\net9.0\labwork_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\obj\Debug\net9.0\labwork_3.AssemblyInfoInputs.cache
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\obj\Debug\net9.0\labwork_3.AssemblyInfo.cs
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\obj\Debug\net9.0\labwork_3.csproj.CoreCompileInputs.cache
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\obj\Debug\net9.0\labwork_3.dll
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\obj\Debug\net9.0\refint\labwork_3.dll
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\obj\Debug\net9.0\labwork_3.pdb
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\obj\Debug\net9.0\labwork_3.genruntimeconfig.cache
+C:\Users\amejs\OneDrive\Рабочий стол\labwork 2\obj\Debug\net9.0\ref\labwork_3.dll
